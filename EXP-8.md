@@ -121,8 +121,6 @@ Efficiency :    80.5699
 Redundancy :    19.4301
 
 
-
-
 # RESULT:
 Thus Shannon Fano coding are performed using MATLAB.
 
